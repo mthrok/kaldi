@@ -21,11 +21,11 @@
 
 #include "base/kaldi-common.h"
 #include "util/parse-options.h"
-#include "util/kaldi-io.h"
-#include "util/simple-io-funcs.h"
-#include "util/kaldi-holder.h"
-#include "util/kaldi-table.h"
-#include "util/table-types.h"
-#include "util/text-utils.h"
+// #include "util/kaldi-io.h"
+// #include "util/simple-io-funcs.h"
+// #include "util/kaldi-holder.h"
+// #include "util/kaldi-table.h"
+// #include "util/table-types.h"
+// #include "util/text-utils.h"
 
 #endif  // KALDI_UTIL_COMMON_UTILS_H_
